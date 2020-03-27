@@ -1,16 +1,16 @@
 <template>
   <div>
     <h2>To test a new sample add a component and update pages/TestPage</h2>
-    <ModalSample />
+    <TableSample />
   </div>
 </template>
 
 <script>
-import ModalSample from "../components/ModalSample";
+import TableSample from "../components/TableSample";
 
 export default {
   name: "TestPage",
-  components: { ModalSample }
+  components: { TableSample }
 };
 </script>
 
