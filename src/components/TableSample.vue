@@ -179,7 +179,7 @@ export default {
       sampleOverflowMenu: ["Start", "Stop", "Delete 3"]
     };
   },
-  mounted() {
+  created() {
     this.columns = columns;
     this.internalData = data;
   },
