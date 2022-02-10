@@ -10,7 +10,7 @@
     "@carbon/icons-vue": "^10.9.2",
     "@carbon/vue": "^2.23.2",
     "core-js": "^3.6.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0",
     "vue": "^2.6.10"
   },
